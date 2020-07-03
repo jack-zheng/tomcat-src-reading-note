@@ -34,12 +34,8 @@
                 <version>3.1</version>
                 <configuration>
                     <encoding>UTF-8</encoding>
-                    <source>11</source>
-                    <target>11</target>
-                    <compilerArgs>
-                        <arg>--add-exports</arg>
-                        <arg>java.rmi/sun.rmi.registry=ALL-UNNAMED</arg>
-                    </compilerArgs>
+                    <source>8</source>
+                    <target>8</target>
                 </configuration>
             </plugin>
         </plugins>
